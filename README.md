@@ -15,7 +15,7 @@
 <br/>
 
 
-## Skills Set
+## Skills Set & Stats
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex-grow: 1;">
@@ -59,7 +59,7 @@
       <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
     </div>
   </div>
-
+  <br/>
   <div style="flex-grow: 1;">
     <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=isabelleserique&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" align="center" /></div>
 
